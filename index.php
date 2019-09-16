@@ -1,4 +1,4 @@
 test
 text
 test
-janusz kowalski anna nowak
+janusz kowalski
